@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 - Hello i am Omar and i am very guapo
+=======
+- Hello i am Omar anything
+>>>>>>> f47dd2c38476b85017f43f8285e7b3a80e84c998
 
 - hello i am mootaz
 
